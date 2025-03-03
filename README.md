@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Janvi</h1>
-<h3 >A passionate frontend developer from Mumbai</h3>
+<h3 >A passionate Web developer from Mumbai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janvimaster&label=Profile%20views&color=0e75b6&style=flat" alt="janvimaster" /> </p>
 
