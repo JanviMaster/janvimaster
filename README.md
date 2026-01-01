@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Janvi</h1>
+<h1 >Hi , I'm Janvi 👋</h1>
 <h3 >A passionate Web developer from Mumbai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janvimaster&label=Profile%20views&color=0e75b6&style=flat" alt="janvimaster" /> </p>
@@ -34,5 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janvimaster&show_icons=true&locale=en" alt="janvimaster" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janvimaster&" alt="janvimaster" /></p>
+
 
 
