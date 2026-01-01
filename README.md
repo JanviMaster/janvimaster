@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java Chess project**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Cloud computing**
 
 - 📫 How to reach me **janvimaster@gmail.com**
 
@@ -34,6 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janvimaster&show_icons=true&locale=en" alt="janvimaster" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janvimaster&" alt="janvimaster" /></p>
+
 
 
 
